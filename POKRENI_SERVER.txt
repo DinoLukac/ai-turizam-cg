@@ -1,0 +1,19 @@
+═══════════════════════════════════════════════════════════════
+  🚀 POKRENI SERVER U LIVE TERMINALU - KOPIRAJ I POKRENI:
+═══════════════════════════════════════════════════════════════
+
+cd "/home/dino/Projects/AI TURISAM CG/web" && npm run dev
+
+═══════════════════════════════════════════════════════════════
+
+ILI KORISTI SCRIPT:
+
+cd "/home/dino/Projects/AI TURISAM CG" && ./START_SERVER.sh
+
+═══════════════════════════════════════════════════════════════
+
+📍 Server će biti na: http://localhost:3000
+🛑 Za zaustavljanje: Pritisni Ctrl+C
+
+═══════════════════════════════════════════════════════════════
+

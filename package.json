@@ -1,0 +1,17 @@
+{
+  "name": "ai-turizam-cg",
+  "version": "1.0.0",
+  "description": "Smart Tourism Application with AI",
+  "private": true,
+  "workspaces": [
+    "web",
+    "backend",
+    "mobile"
+  ],
+  "scripts": {
+    "dev:web": "cd web && npm run dev",
+    "dev:backend": "cd backend && npm run dev",
+    "dev:mobile": "cd mobile && npm start"
+  }
+}
+
